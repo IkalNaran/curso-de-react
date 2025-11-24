@@ -1,0 +1,2 @@
+Pre-instalado: 
+python, npm
